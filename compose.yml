@@ -1,6 +1,6 @@
 ---
 services:
     e-commerce:
-      build: ./ecommerce-html/
+      build: .
       ports:
         - "8080"
